@@ -5,9 +5,12 @@
 ---
 
 
-1. install Arduino IDE
-2. voer url toe: preferences -> "Additional Boards Manager URL"
+* install Arduino IDE
+* install de drivers
+* voer url toe: preferences -> "Additional Boards Manager URL"
 
  ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
   
-3. Tools -> Boards -> board Manager -> Zoek op "esp" -> (mouse hover op results!) ESP8266 Comm. Ed.-> Install 
+* Tools -> Boards -> Board Manager -> Zoek op "esp" -> (mouse hover op results!) ESP8266 Comm. Ed.-> Install 
+* Tools -> Board -> Selecteer "wemos D1 R1"
+* Tools -> port -> Selecteer juiste com poort (trial and error...)
