@@ -5,8 +5,8 @@
 ---
 
 
-* install Arduino IDE
-* install de drivers
+* install Arduino IDE (windows store)
+* install de drivers https://wiki.wemos.cc/downloads
 * voer url toe: preferences -> "Additional Boards Manager URL"
 
  ```http://arduino.esp8266.com/stable/package_esp8266com_index.json```
