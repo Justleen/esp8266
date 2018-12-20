@@ -1,4 +1,6 @@
-# esp8266
+# esp8266 
+
+## install & setup
 
 ##### https://arduino-esp8266.readthedocs.io/en/latest/installing.html
 
@@ -14,3 +16,9 @@
 * Tools -> Boards -> Board Manager -> Zoek op "esp" -> (mouse hover op results!) ESP8266 Comm. Ed.-> Install 
 * Tools -> Board -> Selecteer "wemos D1 R1"
 * Tools -> port -> Selecteer juiste com poort (trial and error...)
+
+## run test
+* File -> Examples -> esp8266 -> Blink
+* Sketch -> Verify/compile (crtl R)
+* Sketch -> Upload (crtl U)
+
